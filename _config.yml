@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Kee' Park
+subtitle: 欢迎来到 小K乐园
+description: 喜欢Coding，喜欢民谣，喜欢热闹，喜欢安静
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: kee
+language: 
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -93,7 +93,10 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# theme: landscape
+theme: diaspora
+# theme: diaspora ## 有点问题，path问题
+# theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
